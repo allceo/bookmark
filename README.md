@@ -1,3 +1,4 @@
+- [微软 VLSC 订阅中心 Windows 10 21H2 2021 年 11 月原版镜像下载 - 大眼仔旭](http://www.dayanzai.me/windows-10-21h2.html) #download
 - [微软 Windows 10 Enterprise LTSC 2021 19044.1288 中文原版镜像下载 - 大眼仔旭](http://www.dayanzai.me/windows-10-ltsc-2021.html) #download
 - [程序员导航](https://cxy521.com/) #others
 - [milkdown](https://milkdown.dev/#/getting-started) #others

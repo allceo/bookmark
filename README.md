@@ -1,3 +1,4 @@
+- [连接问题的故障排除](https://support.logi.com/hc/zh-cn/articles/360023179954-%E8%BF%9E%E6%8E%A5%E9%97%AE%E9%A2%98%E7%9A%84%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4) #others
 - [中国古籍保护网](http://www.nlc.cn/pcab/) #books
 - [How to download any Windows 11 ISO from Microsoft - gHacks Tech News](https://www.ghacks.net/2021/11/24/how-to-download-any-windows-11-iso-from-microsoft/) #download
 - [轻量级简易网盘 webd](https://webd.cf/) #download

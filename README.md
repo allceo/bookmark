@@ -1,3 +1,4 @@
+- [Jiumo Search 鸠摩搜索 - 文档搜索引擎](https://www.jiumodiary.com/)
 - [书格](https://new.shuge.org/) #books
 - [书享家资源帝电子书导航_书享家在这里发现更多好书...](http://shu.ziyuandi.cn/) #books
 - [连接问题的故障排除](https://support.logi.com/hc/zh-cn/articles/360023179954-%E8%BF%9E%E6%8E%A5%E9%97%AE%E9%A2%98%E7%9A%84%E6%95%85%E9%9A%9C%E6%8E%92%E9%99%A4) #others

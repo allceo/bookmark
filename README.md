@@ -1,3 +1,4 @@
+- [Gradient Folders](https://una.im/gradient-folders/) #others
 - [Jiumo Search 鸠摩搜索 - 文档搜索引擎](https://www.jiumodiary.com/)
 - [书格](https://new.shuge.org/) #books
 - [书享家资源帝电子书导航_书享家在这里发现更多好书...](http://shu.ziyuandi.cn/) #books

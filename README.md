@@ -1,3 +1,4 @@
+- [MouseInc 2.11.9](https://shuax.com/project/mouseinc/) #download
 - [Gradient Folders](https://una.im/gradient-folders/) #others
 - [Jiumo Search 鸠摩搜索 - 文档搜索引擎](https://www.jiumodiary.com/)
 - [书格](https://new.shuge.org/) #books

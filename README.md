@@ -1,3 +1,4 @@
+- [MouseInc更新](https://update.shuax.com/MouseInc/update.json) #download
 - [GestureSign](https://zh.gesturesign.win/#/) #download
 - [TreeSheets](https://strlen.com/treesheets/) #download
 - [MouseInc 2.11.9](https://shuax.com/project/mouseinc/) #download

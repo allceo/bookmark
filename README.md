@@ -1,3 +1,4 @@
+- [棋路 - 中国象棋，单机象棋云库人机对战AI，棋谱棋库，古谱残](https://mdevs.cn/) #download
 - [MouseInc更新](https://update.shuax.com/MouseInc/update.json) #download
 - [GestureSign](https://zh.gesturesign.win/#/) #download
 - [TreeSheets](https://strlen.com/treesheets/) #download

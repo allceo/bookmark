@@ -23,6 +23,9 @@
 - [书享家资源帝电子书导航_书享家在这里发现更多好书...](http://shu.ziyuandi.cn/) #books
 - [中国高校课件下载中心](http://download.cucdc.com/) 大学课件下载_中国高校课件下载中心_高等教育资讯网 - 免费大学课件|ppt课件|高校课件|课件下载|电子教案|教学大纲|大学资源|高等教育|大学教育|资源库|资源共享 #资料
 - [中国国家图书馆•中国国家数字图书馆](http://www.nlc.cn/) #资料
+
+# Tampermonkey
+- [通用阅读器](https://greasyfork.org/zh-CN/scripts/377230)
   
 # Others
 - [Gradient Folders](https://una.im/gradient-folders/) #others

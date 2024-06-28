@@ -4,6 +4,7 @@
 
 # Electron
 - [Electron学习2 使用Electron-vue和Vuetify UI库](https://zhuanlan.zhihu.com/p/653363446)
+- [一文搞懂Electron + Vue的开发](https://www.jianshu.com/p/62905cbdcc53)
 
 # Softs
 - [棋路 - 中国象棋，单机象棋云库人机对战AI，棋谱棋库，古谱残](https://mdevs.cn/) #download
